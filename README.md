@@ -1,2 +1,2 @@
-# -jiportugal.github.io
+# jiportugal.github.io
 Judokan International Portugal - Okinawa Karaté-Do
