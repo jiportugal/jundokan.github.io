@@ -141,7 +141,7 @@ body > section,
 ==========================================*/
 
 #navigation {
-  background-color: rgba(16, 22, 54, 0.2);
+  background-color: rgba(14, 180, 147, 0.8);
   border: 0 none;
   margin: 0;
   
@@ -497,7 +497,7 @@ top: -8px;
 ==========================================*/
 
 #facts {
-	background-image: url("../img/parallax/city.jpg");
+	background-image: url("../img/parallax/fundo.jpeg");
 	background-color: rgba(6,32,51,.8);
 	background-attachment: fixed !important;
 	background-position: center center;
