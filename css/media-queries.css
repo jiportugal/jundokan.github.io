@@ -65,6 +65,16 @@
   width: 33%;
 }
 
+
+#dojos .project-wrapper .work-item {
+  flex: 0 0 33%;
+}
+
+#history .project-wrapper .work-item {
+ flex: 0 0 22%;
+}
+
+
 /* team */
 
 .member-thumb .overlay h5 {
@@ -136,7 +146,7 @@ background-position: center top !important;
 }
 
 .social-links {
-  margin-top: 20%;
+  margin-top: 5%;
 }
 
 /* services */
@@ -162,10 +172,21 @@ background-position: center top !important;
 
 /* works */
 
+
+
 .work-item {
   left: 5% !important;
   width: 90%;
 }
+
+#dojos .project-wrapper .work-item {
+  flex: 0 0 90%;
+}
+
+#history .project-wrapper .work-item {
+ flex: 0 0 90%;
+}
+
 
 /* team */
 
@@ -214,6 +235,7 @@ background-position: center top !important;
 .footer-single {
   margin-bottom: 30px;
 }
+
 
 }
 
