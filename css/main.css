@@ -141,7 +141,7 @@ body > section,
 ==========================================*/
 
 #navigation {
-  background-color: rgba(14, 180, 147, 0.8);
+  background-color: rgba(14, 180, 147, 0.1);
   border: 0 none;
   margin: 0;
   
@@ -172,7 +172,11 @@ body > section,
 	color: #fff;
 }
 
-
+#logo {
+    font-size: 1em;
+    line-height: 52px;
+    margin: 0px 20px;
+}
 
 
 /*=========================================
@@ -439,6 +443,7 @@ top: -8px;
 
 .member-thumb {
   width: 273px;
+  margin: 0 auto;
   position: relative;
 }
 
