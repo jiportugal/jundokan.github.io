@@ -231,7 +231,7 @@ background-position: center top !important;
 }
 
 .project-wrapper {
-  justify-content: normal; 
+  justify-content: center; 
   gap: 10px ;
 }
 
@@ -278,6 +278,11 @@ background-position: center top !important;
 .work-item {
   left: inherit !important;
   width: 50%;
+}
+
+.project-wrapper {
+  justify-content: center; 
+  gap: 10px ;
 }
 
 }
