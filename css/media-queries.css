@@ -230,6 +230,11 @@ background-position: center top !important;
   margin: 0 10px;
 }
 
+.project-wrapper {
+  justify-content: normal; 
+  gap: 10px ;
+}
+
 /* footer */
 
 .footer-single {

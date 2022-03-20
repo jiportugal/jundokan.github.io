@@ -189,6 +189,7 @@ body > section,
 
 #slider .carousel-inner .item {
   background-size: cover;
+  background-position: center;
 }
 
 .carousel-caption {
