@@ -461,6 +461,19 @@ top: -8px;
   line-height: 24px;
 }
 
+
+.fancybox-wrap .social-links {
+  margin: 10px 20px;
+}
+
+.social-links li a {
+  background-color: #0d7c67;
+  color: #fff;
+  height: 42px;
+  padding: 10px 0 0;
+  width: 42px;
+}
+
 /*=========================================
 	Our Team Member
 ==========================================*/
